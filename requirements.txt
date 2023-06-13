@@ -1,2 +1,3 @@
-mysqlclient==1.4.2.post1
-sqlalchemy
+mysql
+streamlit
+sys
